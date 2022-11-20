@@ -3,7 +3,7 @@
 int main() {
 
     int i,n;
-    printf("\n How many proposals you want to receive from ME:");
+    printf("\n How many proposals do you want from ME:");
     scanf("%d", &n);
     for(i=1;i<=n;i++)
     {
